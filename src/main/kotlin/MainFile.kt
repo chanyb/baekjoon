@@ -1,7 +1,5 @@
-import solve.Question10813
-
+import solve.Question2581
 fun main(args: Array<String>) {
-    var q = Question10813()
+    val q = Question2581()
 }
-
 
